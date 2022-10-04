@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "name": "John",
+        "title": "john@example.com",
+        "director": "http://example.com",
+        "rating": "123-456-7890",
+        "year": "123-456-7890"
+    },
+    {
+        "id": "2",
+        "title": "John",
+        "director": "john@example.com",
+        "rating": "http://example.com",
+        "year": "123-456-7890",
+        "fax": "123-456-7890"
+    }
+]
